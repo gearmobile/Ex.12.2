@@ -1,3 +1,3 @@
-import "./css/style.css";
-import "./js/app";
+import "./css/main.css";
+import "./js/main";
 import "./img/goblin.png";
